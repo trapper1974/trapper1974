@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trapper74
 - 👀 I’m interested in creative coding, OBS Studio, shader programming
-- 🌱 I’m currently learning Processing, javascript, css
+- 🌱 I’m currently learning Processing, Javascript, CSS, C#
 - 💞️ I’m looking to collaborate on ... tbc
 - 📫 How to reach me ... @trpr74 on twitter
 
